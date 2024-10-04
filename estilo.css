@@ -5,7 +5,7 @@
   
   .fundo{
      width: 100%;
-     background: linear-gradient(180deg, #ee5007 0%, rgba(230, 121, 71, 0) 60.5%, rgba(253, 62, 3, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+     background: linear-gradient(180deg, #fd5f0e 0%, rgb(255 110 36 / 48%) 60.5%, #ffffff4f 99.1%, rgb(123 89 71 / 0%) 100%);
   position: absolute;
    height: 900px;
    overflow: hidden;
