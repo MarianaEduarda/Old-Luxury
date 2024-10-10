@@ -29,3 +29,18 @@
        font-size: 23px;
   text-align: center;
       }
+
+.local{
+    position: absolute;
+    top: 100px;
+    left: 1636px;
+    font-size: 20px;
+  }
+  
+  .localizacao{
+    width: 88px;
+    position: absolute;
+    top: 30px;
+    left: 1540px;
+  
+  }
