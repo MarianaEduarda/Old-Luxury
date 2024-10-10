@@ -10,3 +10,22 @@
    height: 900px;
    overflow: hidden;
   }
+  .titulo{
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    left: 676px;
+    color:F61010 ;
+     }
+     .textoprincipal{
+       position: absolute;
+       top: 400px;
+       position: absolute;
+       top: 215px;
+       left: 25px;
+       font-size: 23px;
+  text-align: center;
+      }
