@@ -44,3 +44,9 @@
     left: 1540px;
   
   }
+  .logo{
+    width: 275px;
+    position: absolute;
+    top: -135px;
+    left: 90px;
+  }
