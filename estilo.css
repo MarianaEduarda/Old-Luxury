@@ -97,7 +97,9 @@ left: 165px;
 }
 .frase{  
   position: relative;
-  top: 820px;
+  top: 851px;
   text-align: center;
   font-size: 22px;
+  color: #a75307;
+  font-size: 27px;
 }
