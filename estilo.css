@@ -1,51 +1,51 @@
 *{
-   padding: 0;
-   margin: 0;
- }
- 
- .fundo{
-    width: 100%;
-    background: linear-gradient(180deg, #fd5f0e 0%, rgb(255 110 36 / 48%) 60.5%, #ffffff4f 99.1%, rgb(123 89 71 / 0%) 100%);
+  padding: 0;
+  margin: 0;
+}
+
+.fundo{
+   width: 100%;
+   background: linear-gradient(180deg, #fd5f0e 0%, rgb(255 110 36 / 48%) 60.5%, #ffffff4f 99.1%, rgb(123 89 71 / 0%) 100%);
+position: absolute;
+ height: 900px;
+ overflow: hidden;
+}
+.titulo{
+ text-align: center;
+ font-size: 100px;
+ font-family: Georgia;
  position: absolute;
-  height: 900px;
-  overflow: hidden;
- }
- .titulo{
-  text-align: center;
-  font-size: 100px;
-  font-family: Georgia;
-  position: absolute;
-  text-align: center;
-  top: 49px;
-  left: 676px;
-  color:F61010 ;
-   }
-   .textoprincipal{
-     position: absolute;
-     top: 400px;
-     position: absolute;
-     top: 215px;
-     left: 25px;
-     font-size: 23px;
+ text-align: center;
+ top: 49px;
+ left: 676px;
+ color:F61010 ;
+  }
+  .textoprincipal{
+    position: absolute;
+    top: 400px;
+    position: absolute;
+    top: 215px;
+    left: 25px;
+    font-size: 23px;
 text-align: center;
-    }
+   }
 
 .local{
-  position: absolute;
-  top: 100px;
-  left: 1636px;
-  font-size: 20px;
+ position: absolute;
+ top: 100px;
+ left: 1636px;
+ font-size: 20px;
 }
 
 .localizacao{
-  width: 88px;
-  position: absolute;
-  top: 30px;
-  left: 1540px;
+ width: 88px;
+ position: absolute;
+ top: 30px;
+ left: 1540px;
 
 }
 .birkin{
-  width: 309px;
+ width: 309px;
 height: 280px;
 flex-shrink: 0;
 position: absolute;
@@ -53,53 +53,54 @@ top: 381px;
 left: 165px;
 }
 .logo{
-  width: 275px;
-  position: absolute;
-  top: -135px;
-  left: 90px;
+ width: 275px;
+ position: absolute;
+ top: -135px;
+ left: 90px;
 }
 .site1{
-  position: absolute;
-  top: 688px;
-  left: 264px;
-  color: #b16a0f;
- font-size: 26px;
+ position: absolute;
+ top: 688px;
+ left: 264px;
+ color: #b16a0f;
+font-size: 26px;
 }
 .minikelly{
-  width: 309px;
-  height: 280px;
-  flex-shrink: 0;
-  position: absolute;
-  top: 400px;
-  left: 801px;
+ width: 309px;
+ height: 280px;
+ flex-shrink: 0;
+ position: absolute;
+ top: 400px;
+ left: 801px;
 }
 .site2{
-  position: absolute;
-  top: 690px;
-  left: 876px;
-  color: #b16a0f;
-  font-size: 24px;
+ position: absolute;
+ top: 690px;
+ left: 876px;
+ color: #b16a0f;
+ font-size: 24px;
 }
 .constance{
-  width: 309px;
-  height: 280px;
-  flex-shrink: 0;
-  position: absolute;
-  top: 400px;
-  left: 1402px;
+ width: 309px;
+ height: 280px;
+ flex-shrink: 0;
+ position: absolute;
+ top: 400px;
+ left: 1402px;
 }
 .site{
-  position: absolute;
-  top: 690px;
-  left: 1495px;
-  color: #b16a0f;
-  font-size: 24px;
+ position: absolute;
+ top: 690px;
+ left: 1495px;
+ color: #b16a0f;
+ font-size: 24px;
 }
 .frase{  
-  position: relative;
-  top: 851px;
-  text-align: center;
-  font-size: 22px;
-  color: #a75307;
-  font-size: 27px;
+ position: relative;
+ top: 851px;
+ text-align: center;
+ font-size: 22px;
+ color: #a75307;
+ font-size: 27px;
 }
+
