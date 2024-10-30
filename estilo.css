@@ -104,4 +104,14 @@
   font-size: 27px;
  }
  
- 
+ .teste{
+   text-align: center;
+   font-size: 100px;
+   font-family: Georgia;
+   position: absolute;
+   text-align: center;
+   top: -38px;
+   left: 745px;
+   color: F61010;
+   width: 450px;
+ }
