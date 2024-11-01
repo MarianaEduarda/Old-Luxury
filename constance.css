@@ -23,7 +23,7 @@ position: absolute;
    .textoprincipal{
      position: absolute;
      top: 229px;
-     left: 756px;
+     left: 750px;
      font-size: 18px;
      text-align: center;
      color: #fff6ef;
@@ -60,4 +60,15 @@ position: absolute;
   top: 274px;
   left: 1034px;
   width: 750px;
+}
+.teste{
+  text-align: center;
+  font-size: 100px;
+  font-family: Georgia;
+  position: absolute;
+  text-align: center;
+  top: -38px;
+  left: 745px;
+  color: F61010;
+  width: 450px;
 }
